@@ -1,0 +1,10 @@
+C:\Users\Nicat\source\repos\cinema\cinema\bin\Debug\cinema.exe.config
+C:\Users\Nicat\source\repos\cinema\cinema\bin\Debug\cinema.exe
+C:\Users\Nicat\source\repos\cinema\cinema\bin\Debug\cinema.pdb
+C:\Users\Nicat\source\repos\cinema\cinema\obj\Debug\cinema.csprojAssemblyReference.cache
+C:\Users\Nicat\source\repos\cinema\cinema\obj\Debug\cinema.Form1.resources
+C:\Users\Nicat\source\repos\cinema\cinema\obj\Debug\cinema.Properties.Resources.resources
+C:\Users\Nicat\source\repos\cinema\cinema\obj\Debug\cinema.csproj.GenerateResource.cache
+C:\Users\Nicat\source\repos\cinema\cinema\obj\Debug\cinema.csproj.CoreCompileInputs.cache
+C:\Users\Nicat\source\repos\cinema\cinema\obj\Debug\cinema.exe
+C:\Users\Nicat\source\repos\cinema\cinema\obj\Debug\cinema.pdb
